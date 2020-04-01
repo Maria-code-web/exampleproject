@@ -1,2 +1,0 @@
-# exampleproject
-secondstring
